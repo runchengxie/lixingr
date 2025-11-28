@@ -4,6 +4,10 @@ output: github_document
 
 # lixingr
 
+> **⚠️ Project Archived**
+> 
+> This project is no longer maintained and has been refactored at [lixingr2](https://github.com/tanchangde/lixingr2). Please use the new version for better features and ongoing support.
+
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/tanchangde/lixingr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/tanchangde/lixingr/actions/workflows/R-CMD-check.yaml)
